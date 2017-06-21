@@ -1,0 +1,578 @@
+[
+ {
+  "currencyPair": "BTC_BCN",
+  "high": 0.0000028,
+  "highestDate": 1495396800,
+  "low": 9.3e-7,
+  "lowestDate": 1495872000,
+  "highestVolume": 9667.33720554,
+  "highestVolumeDate": 1495382400
+ },
+ {
+  "currencyPair": "BTC_BELA",
+  "high": 0.00013271,
+  "highestDate": 1497787200,
+  "low": 0.00007701,
+  "lowestDate": 1495872000,
+  "highestVolume": 430.26790127,
+  "highestVolumeDate": 1497772800
+ },
+ {
+  "currencyPair": "BTC_BLK",
+  "high": 0.00023999,
+  "highestDate": 1497009600,
+  "low": 0.0000621,
+  "lowestDate": 1495872000,
+  "highestVolume": 1704.81359549,
+  "highestVolumeDate": 1497009600
+ },
+ {
+  "currencyPair": "BTC_BTCD",
+  "high": 0.0449999,
+  "highestDate": 1497758400,
+  "low": 0.0080099,
+  "lowestDate": 1496246400,
+  "highestVolume": 264.21601425,
+  "highestVolumeDate": 1497758400
+ },
+ {
+  "currencyPair": "BTC_BTM",
+  "high": 0.000852,
+  "highestDate": 1495944000,
+  "low": 0.00031,
+  "lowestDate": 1495670400,
+  "highestVolume": 593.90919818,
+  "highestVolumeDate": 1495872000
+ },
+ {
+  "currencyPair": "BTC_BTS",
+  "high": 0.00017642,
+  "highestDate": 1497096000,
+  "low": 0.00001947,
+  "lowestDate": 1495857600,
+  "highestVolume": 33738.20328975,
+  "highestVolumeDate": 1497096000
+ },
+ {
+  "currencyPair": "BTC_BURST",
+  "high": 0.00000755,
+  "highestDate": 1496563200,
+  "low": 0.00000303,
+  "lowestDate": 1495857600,
+  "highestVolume": 1099.47770642,
+  "highestVolumeDate": 1496318400
+ },
+ {
+  "currencyPair": "BTC_CLAM",
+  "high": 0.003842,
+  "highestDate": 1495411200,
+  "low": 0.00131,
+  "lowestDate": 1495857600,
+  "highestVolume": 1032.46062327,
+  "highestVolumeDate": 1497614400
+ },
+ {
+  "currencyPair": "BTC_DASH",
+  "high": 0.08031456,
+  "highestDate": 1497830400,
+  "low": 0.04127,
+  "lowestDate": 1496707200,
+  "highestVolume": 8745.9064785,
+  "highestVolumeDate": 1497182400
+ },
+ {
+  "currencyPair": "BTC_DGB",
+  "high": 0.00002669,
+  "highestDate": 1496505600,
+  "low": 0.00000441,
+  "lowestDate": 1495857600,
+  "highestVolume": 30099.43109465,
+  "highestVolumeDate": 1496505600
+ },
+ {
+  "currencyPair": "BTC_DOGE",
+  "high": 0.00000189,
+  "highestDate": 1495411200,
+  "low": 8.5e-7,
+  "lowestDate": 1495857600,
+  "highestVolume": 14059.71851273,
+  "highestVolumeDate": 1495411200
+ },
+ {
+  "currencyPair": "BTC_EMC2",
+  "high": 0.00003888,
+  "highestDate": 1497124800,
+  "low": 0.00001082,
+  "lowestDate": 1495872000,
+  "highestVolume": 486.93808415,
+  "highestVolumeDate": 1497052800
+ },
+ {
+  "currencyPair": "BTC_FLDC",
+  "high": 0.00000997,
+  "highestDate": 1496548800,
+  "low": 0.00000322,
+  "lowestDate": 1495872000,
+  "highestVolume": 674.711492,
+  "highestVolumeDate": 1496548800
+ },
+ {
+  "currencyPair": "BTC_FLO",
+  "high": 0.00005645,
+  "highestDate": 1497585600,
+  "low": 0.00002232,
+  "lowestDate": 1495972800,
+  "highestVolume": 678.01473102,
+  "highestVolumeDate": 1497600000
+ },
+ {
+  "currencyPair": "BTC_GAME",
+  "high": 0.00207,
+  "highestDate": 1496563200,
+  "low": 0.00077249,
+  "lowestDate": 1495872000,
+  "highestVolume": 1243.15526277,
+  "highestVolumeDate": 1496563200
+ },
+ {
+  "currencyPair": "BTC_GRC",
+  "high": 0.0000465,
+  "highestDate": 1497182400,
+  "low": 0.00001113,
+  "lowestDate": 1495857600,
+  "highestVolume": 1354.24063657,
+  "highestVolumeDate": 1497182400
+ },
+ {
+  "currencyPair": "BTC_HUC",
+  "high": 0.000145,
+  "highestDate": 1496476800,
+  "low": 0.00003633,
+  "lowestDate": 1495872000,
+  "highestVolume": 1287.80223752,
+  "highestVolumeDate": 1496476800
+ },
+ {
+  "currencyPair": "BTC_LTC",
+  "high": 0.01945,
+  "highestDate": 1497873600,
+  "low": 0.00986405,
+  "lowestDate": 1495872000,
+  "highestVolume": 23071.74304236,
+  "highestVolumeDate": 1497715200
+ },
+ {
+  "currencyPair": "BTC_MAID",
+  "high": 0.00023816,
+  "highestDate": 1496808000,
+  "low": 0.00014933,
+  "lowestDate": 1496721600,
+  "highestVolume": 3022.42670803,
+  "highestVolumeDate": 1496808000
+ },
+ {
+  "currencyPair": "BTC_OMNI",
+  "high": 0.0482432,
+  "highestDate": 1496203200,
+  "low": 0.00702,
+  "lowestDate": 1495872000,
+  "highestVolume": 9546.70641968,
+  "highestVolumeDate": 1496203200
+ },
+ {
+  "currencyPair": "BTC_NAUT",
+  "high": 0.00014966,
+  "highestDate": 1496217600,
+  "low": 0.000075,
+  "lowestDate": 1495699200,
+  "highestVolume": 399.75590116,
+  "highestVolumeDate": 1496232000
+ },
+ {
+  "currencyPair": "BTC_NAV",
+  "high": 0.000206,
+  "highestDate": 1495353600,
+  "low": 0.00009835,
+  "lowestDate": 1495872000,
+  "highestVolume": 277.08957448,
+  "highestVolumeDate": 1496232000
+ },
+ {
+  "currencyPair": "BTC_NEOS",
+  "high": 0.00281,
+  "highestDate": 1497931200,
+  "low": 0.00071999,
+  "lowestDate": 1495728000,
+  "highestVolume": 770.02784866,
+  "highestVolumeDate": 1496304000
+ },
+ {
+  "currencyPair": "BTC_NMC",
+  "high": 0.00118015,
+  "highestDate": 1495368000,
+  "low": 0.00062892,
+  "lowestDate": 1495857600,
+  "highestVolume": 216.83725552,
+  "highestVolumeDate": 1496606400
+ },
+ {
+  "currencyPair": "BTC_NOTE",
+  "high": 0.00011036,
+  "highestDate": 1497124800,
+  "low": 0.00001769,
+  "lowestDate": 1495857600,
+  "highestVolume": 897.39149427,
+  "highestVolumeDate": 1497124800
+ },
+ {
+  "currencyPair": "BTC_NXT",
+  "high": 0.00008966,
+  "highestDate": 1497326400,
+  "low": 0.00001819,
+  "lowestDate": 1495915200,
+  "highestVolume": 4276.06690937,
+  "highestVolumeDate": 1497326400
+ },
+ {
+  "currencyPair": "BTC_PINK",
+  "high": 0.000014,
+  "highestDate": 1496476800,
+  "low": 0.00000515,
+  "lowestDate": 1495872000,
+  "highestVolume": 1747.19782916,
+  "highestVolumeDate": 1496476800
+ },
+ {
+  "currencyPair": "BTC_POT",
+  "high": 0.00007,
+  "highestDate": 1497369600,
+  "low": 0.00003011,
+  "lowestDate": 1496131200,
+  "highestVolume": 1066.07570139,
+  "highestVolumeDate": 1497355200
+ },
+ {
+  "currencyPair": "BTC_PPC",
+  "high": 0.001294,
+  "highestDate": 1496606400,
+  "low": 0.00059191,
+  "lowestDate": 1495872000,
+  "highestVolume": 1263.1878455,
+  "highestVolumeDate": 1496606400
+ },
+ {
+  "currencyPair": "BTC_RIC",
+  "high": 0.000097,
+  "highestDate": 1497182400,
+  "low": 0.00003001,
+  "lowestDate": 1495872000,
+  "highestVolume": 429.58523316,
+  "highestVolumeDate": 1496764800
+ },
+ {
+  "currencyPair": "BTC_SJCX",
+  "high": 0.000569,
+  "highestDate": 1496678400,
+  "low": 0.0001667,
+  "lowestDate": 1495713600,
+  "highestVolume": 1175.78929721,
+  "highestVolumeDate": 1496678400
+ },
+ {
+  "currencyPair": "BTC_STR",
+  "high": 0.00003424,
+  "highestDate": 1495396800,
+  "low": 0.00001248,
+  "lowestDate": 1495872000,
+  "highestVolume": 8987.04800334,
+  "highestVolumeDate": 1495382400
+ },
+ {
+  "currencyPair": "BTC_SYS",
+  "high": 0.00010278,
+  "highestDate": 1497888000,
+  "low": 0.0000365,
+  "lowestDate": 1495872000,
+  "highestVolume": 5056.1065364,
+  "highestVolumeDate": 1495656000
+ },
+ {
+  "currencyPair": "BTC_VIA",
+  "high": 0.0008495,
+  "highestDate": 1498017600,
+  "low": 0.000125,
+  "lowestDate": 1495972800,
+  "highestVolume": 799.16602058,
+  "highestVolumeDate": 1498017600
+ },
+ {
+  "currencyPair": "BTC_XVC",
+  "high": 0.00022459,
+  "highestDate": 1497974400,
+  "low": 0.00011168,
+  "lowestDate": 1495713600,
+  "highestVolume": 656.84843828,
+  "highestVolumeDate": 1496476800
+ },
+ {
+  "currencyPair": "BTC_VRC",
+  "high": 0.00024991,
+  "highestDate": 1497830400,
+  "low": 0.000085,
+  "lowestDate": 1495713600,
+  "highestVolume": 393.13246893,
+  "highestVolumeDate": 1497585600
+ },
+ {
+  "currencyPair": "BTC_VTC",
+  "high": 0.000458,
+  "highestDate": 1497052800,
+  "low": 0.0001157,
+  "lowestDate": 1495857600,
+  "highestVolume": 1238.62921306,
+  "highestVolumeDate": 1497024000
+ },
+ {
+  "currencyPair": "BTC_XBC",
+  "high": 0.0485,
+  "highestDate": 1495368000,
+  "low": 0.02559999,
+  "lowestDate": 1496001600,
+  "highestVolume": 112.30023012,
+  "highestVolumeDate": 1495368000
+ },
+ {
+  "currencyPair": "BTC_XCP",
+  "high": 0.00850009,
+  "highestDate": 1497830400,
+  "low": 0.00367497,
+  "lowestDate": 1495872000,
+  "highestVolume": 643.82665424,
+  "highestVolumeDate": 1497830400
+ },
+ {
+  "currencyPair": "BTC_XEM",
+  "high": 0.00013977,
+  "highestDate": 1495425600,
+  "low": 0.00005742,
+  "lowestDate": 1495857600,
+  "highestVolume": 3649.92887614,
+  "highestVolumeDate": 1495411200
+ },
+ {
+  "currencyPair": "BTC_XMR",
+  "high": 0.0252648,
+  "highestDate": 1495569600,
+  "low": 0.01510001,
+  "lowestDate": 1495872000,
+  "highestVolume": 11125.02501447,
+  "highestVolumeDate": 1495656000
+ },
+ {
+  "currencyPair": "BTC_XPM",
+  "high": 0.00034869,
+  "highestDate": 1495612800,
+  "low": 0.00012012,
+  "lowestDate": 1495857600,
+  "highestVolume": 770.29500297,
+  "highestVolumeDate": 1496404800
+ },
+ {
+  "currencyPair": "BTC_XRP",
+  "high": 0.0001725,
+  "highestDate": 1495353600,
+  "low": 0.0000801,
+  "lowestDate": 1495872000,
+  "highestVolume": 24012.03847002,
+  "highestVolumeDate": 1496304000
+ },
+ {
+  "currencyPair": "BTC_ETH",
+  "high": 0.1529664,
+  "highestDate": 1497312000,
+  "low": 0.062367,
+  "lowestDate": 1495353600,
+  "highestVolume": 63306.41156834,
+  "highestVolumeDate": 1497254400
+ },
+ {
+  "currencyPair": "BTC_SC",
+  "high": 0.00000838,
+  "highestDate": 1497916800,
+  "low": 0.00000259,
+  "lowestDate": 1495857600,
+  "highestVolume": 13559.13091385,
+  "highestVolumeDate": 1496520000
+ },
+ {
+  "currencyPair": "BTC_BCY",
+  "high": 0.0002699,
+  "highestDate": 1497916800,
+  "low": 0.00011588,
+  "lowestDate": 1496289600,
+  "highestVolume": 186.41485793,
+  "highestVolumeDate": 1495886400
+ },
+ {
+  "currencyPair": "BTC_EXP",
+  "high": 0.00169997,
+  "highestDate": 1497081600,
+  "low": 0.00074,
+  "lowestDate": 1496044800,
+  "highestVolume": 424.32827931,
+  "highestVolumeDate": 1496563200
+ },
+ {
+  "currencyPair": "BTC_FCT",
+  "high": 0.01463162,
+  "highestDate": 1497945600,
+  "low": 0.00464,
+  "lowestDate": 1495872000,
+  "highestVolume": 7219.01105857,
+  "highestVolumeDate": 1496736000
+ },
+ {
+  "currencyPair": "BTC_RADS",
+  "high": 0.0028,
+  "highestDate": 1497024000,
+  "low": 0.00116249,
+  "lowestDate": 1495872000,
+  "highestVolume": 223.15353988,
+  "highestVolumeDate": 1496678400
+ },
+ {
+  "currencyPair": "BTC_AMP",
+  "high": 0.00024283,
+  "highestDate": 1497974400,
+  "low": 0.000082,
+  "lowestDate": 1496044800,
+  "highestVolume": 460.3742121,
+  "highestVolumeDate": 1496592000
+ },
+ {
+  "currencyPair": "BTC_DCR",
+  "high": 0.02182352,
+  "highestDate": 1497801600,
+  "low": 0.008469,
+  "lowestDate": 1495440000,
+  "highestVolume": 2300.56056079,
+  "highestVolumeDate": 1497801600
+ },
+ {
+  "currencyPair": "BTC_LSK",
+  "high": 0.0015999,
+  "highestDate": 1497081600,
+  "low": 0.0003422,
+  "lowestDate": 1495454400,
+  "highestVolume": 6047.06576103,
+  "highestVolumeDate": 1496793600
+ },
+ {
+  "currencyPair": "BTC_LBC",
+  "high": 0.00033826,
+  "highestDate": 1497528000,
+  "low": 0.0000685,
+  "lowestDate": 1495857600,
+  "highestVolume": 2371.10097017,
+  "highestVolumeDate": 1497528000
+ },
+ {
+  "currencyPair": "BTC_STEEM",
+  "high": 0.00099998,
+  "highestDate": 1497009600,
+  "low": 0.00033284,
+  "lowestDate": 1495872000,
+  "highestVolume": 4385.22196579,
+  "highestVolumeDate": 1496779200
+ },
+ {
+  "currencyPair": "BTC_SBD",
+  "high": 0.00097951,
+  "highestDate": 1495353600,
+  "low": 0.000567,
+  "lowestDate": 1495872000,
+  "highestVolume": 316.62071998,
+  "highestVolumeDate": 1497700800
+ },
+ {
+  "currencyPair": "BTC_ETC",
+  "high": 0.00931529,
+  "highestDate": 1495670400,
+  "low": 0.003414,
+  "lowestDate": 1495382400,
+  "highestVolume": 16752.29569623,
+  "highestVolumeDate": 1495670400
+ },
+ {
+  "currencyPair": "BTC_REP",
+  "high": 0.016,
+  "highestDate": 1495512000,
+  "low": 0.00813784,
+  "lowestDate": 1495411200,
+  "highestVolume": 3074.86937182,
+  "highestVolumeDate": 1495512000
+ },
+ {
+  "currencyPair": "BTC_ARDR",
+  "high": 0.00012,
+  "highestDate": 1497888000,
+  "low": 0.0000356,
+  "lowestDate": 1495857600,
+  "highestVolume": 1563.84536029,
+  "highestVolumeDate": 1497499200
+ },
+ {
+  "currencyPair": "BTC_ZEC",
+  "high": 0.17,
+  "highestDate": 1497556800,
+  "low": 0.05131001,
+  "lowestDate": 1495353600,
+  "highestVolume": 15867.05540322,
+  "highestVolumeDate": 1495454400
+ },
+ {
+  "currencyPair": "BTC_STRAT",
+  "high": 0.00468588,
+  "highestDate": 1496476800,
+  "low": 0.00089808,
+  "lowestDate": 1495440000,
+  "highestVolume": 6741.74553089,
+  "highestVolumeDate": 1496476800
+ },
+ {
+  "currencyPair": "BTC_NXC",
+  "high": 0.0001861,
+  "highestDate": 1496246400,
+  "low": 0.00006251,
+  "lowestDate": 1495857600,
+  "highestVolume": 3581.4880031,
+  "highestVolumeDate": 1496246400
+ },
+ {
+  "currencyPair": "BTC_PASC",
+  "high": 0.00049105,
+  "highestDate": 1495641600,
+  "low": 0.00025835,
+  "lowestDate": 1495857600,
+  "highestVolume": 284.89123029,
+  "highestVolumeDate": 1495641600
+ },
+ {
+  "currencyPair": "BTC_GNT",
+  "high": 0.00027693,
+  "highestDate": 1497902400,
+  "low": 0.00012085,
+  "lowestDate": 1495353600,
+  "highestVolume": 7481.99694007,
+  "highestVolumeDate": 1495944000
+ },
+ {
+  "currencyPair": "BTC_GNO",
+  "high": 0.12222001,
+  "highestDate": 1495612800,
+  "low": 0.07313472,
+  "lowestDate": 1495872000,
+  "highestVolume": 403.59365037,
+  "highestVolumeDate": 1495440000
+ }
+]
