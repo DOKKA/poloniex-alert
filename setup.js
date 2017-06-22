@@ -3,6 +3,7 @@ var Promise = require("bluebird");
 var moment = require('moment');
 var Promise = require("bluebird");
 var fs = Promise.promisifyAll(require("fs"));
+var db = require('./setup2.js');
 //var _ = require('lodash');
 
 var poloniex = new zzz();
@@ -79,6 +80,7 @@ function getExtremes(currencyPair){
 //     console.log(data);
 // })
 
+db.sequelize.sync().then(function(){
 returnTicker().then(function(ticker){
     var markets = Object.keys(ticker);
     var bitcoinMarkets = markets.filter(function(market){
@@ -88,15 +90,27 @@ returnTicker().then(function(ticker){
     return Promise.map(bitcoinMarkets,function(market){
         return getExtremes(market).then(function(values){
             console.log(values);
-            return values;
-        }).delay(5000);
+            return db.CoinValue.create({
+                currencyPair: values.currencyPair,
+                high: values.high,
+                highestDate: moment(values.highestDate*1000).toDate(),
+                low: values.low,
+                lowestDate:  moment(values.lowestDate*1000).toDate(),
+                highestVolume: values.highestVolume,
+                highestVolumeDate:  moment(values.highestVolumeDate*1000).toDate(),
+            });
+            //return values;
+        }).delay(10000);
     },{concurrency: 1});
 }).then(function(values){
-    return fs.writeFileAsync('extreme-values.json',JSON.stringify(values, null, ' '));
+    //return fs.writeFileAsync('extreme-values.json',JSON.stringify(values, null, ' '));
+    return values;
 }).then(function(){
     console.log('done');
 })
 
+
+})
 
 
     // return fs.appendFileAsync('data.txt', JSON.stringify(bitcoinMarkets,null,' ')).then(function(){
